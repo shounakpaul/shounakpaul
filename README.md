@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shounak Paul</h1>
-<h3 align="center">Data Alchemist & Web Weaver</h3>
+
 
 - 🔭 I’m currently working on **Travel Agency Application**
 
