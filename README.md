@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shounak Paul</h1>
 
 
-- 🔭 I’m currently working on **Travel Agency Application**
-
 - 🌱 I’m currently learning **Tensorflow,**
 
 - 💬 Ask me about **React, Python**
 
 - 📫 How to reach me **paul.shounak@outlook.com**
 
-- ⚡ Fun fact **I love eating pizza 🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
