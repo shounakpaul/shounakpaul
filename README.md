@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shounak Paul</h1>
 
-
-- 🌱 I’m currently learning **Tensorflow,**
-
-- 💬 Ask me about **React, Python**
-
-- 📫 How to reach me **paul.shounak@outlook.com**
+- 📫 Reach me at **paul.shounak@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
